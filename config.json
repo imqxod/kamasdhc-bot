@@ -1,0 +1,23 @@
+{
+    "Bot": {
+        "Token": "",
+        "GuildIds": [
+            
+        ]
+    },
+    "DroppedAmount": "0",
+    "TicketCount": "0",
+    "Channels": {
+        "Verify": "",
+        "Vouch": "",
+        "Verification": ""
+    },
+    "Roles": {
+        "TicketManager": "",
+        "Dropper": "",
+        "Jailed": ""
+    },
+    "administrationroles": [
+        
+    ]
+}
